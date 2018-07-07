@@ -1,4 +1,4 @@
-Pour lancer les slides
+To launch the slides
 
 1 - git clone https://github.com/Cerfio/Bettercap
 
